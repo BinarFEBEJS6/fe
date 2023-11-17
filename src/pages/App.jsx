@@ -8,6 +8,7 @@ export const App = () => {
       <div className="">App</div>
       <button onClick={() => navigate(`/home`)}>Home</button>
       <button>Submit</button>
+      <button>Nandes</button>
     </>
   );
 };
