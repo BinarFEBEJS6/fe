@@ -9,6 +9,7 @@ export const App = () => {
       <button onClick={() => navigate(`/home`)}>Home</button>
       <button>Submit</button>
       <button>Nandes</button>
+      <button>Tes Coba</button>
     </>
   );
 };
